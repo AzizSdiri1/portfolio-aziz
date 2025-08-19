@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-aziz/static/css/main.70cd05d2.css",
-    "main.js": "/portfolio-aziz/static/js/main.a267d189.js",
+    "main.js": "/portfolio-aziz/static/js/main.65724bf2.js",
     "static/js/787.fb771931.chunk.js": "/portfolio-aziz/static/js/787.fb771931.chunk.js",
     "static/media/banner-bg.png": "/portfolio-aziz/static/media/banner-bg.9d94c7ac02c7ec35e64e.png",
     "static/media/color-sharp.png": "/portfolio-aziz/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -33,11 +33,11 @@
     "index.html": "/portfolio-aziz/index.html",
     "static/media/nav-icon1.svg": "/portfolio-aziz/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.70cd05d2.css.map": "/portfolio-aziz/static/css/main.70cd05d2.css.map",
-    "main.a267d189.js.map": "/portfolio-aziz/static/js/main.a267d189.js.map",
+    "main.65724bf2.js.map": "/portfolio-aziz/static/js/main.65724bf2.js.map",
     "787.fb771931.chunk.js.map": "/portfolio-aziz/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70cd05d2.css",
-    "static/js/main.a267d189.js"
+    "static/js/main.65724bf2.js"
   ]
 }

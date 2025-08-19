@@ -28,7 +28,7 @@ export const Chatbot = () => {
     setLoading(true);
 
     try {
-      const response = await fetch("http://satokazuma1.pythonanywhere.com/chat", {
+      const response = await fetch("https://satokazuma1.pythonanywhere.com/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ history: newHistory, message: trimmedMessage }),
